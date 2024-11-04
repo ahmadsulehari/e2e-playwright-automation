@@ -1,0 +1,18 @@
+{
+  "name": "e2e-playwright-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^22.7.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "generate-password-ts": "^1.6.5"
+  }
+}
