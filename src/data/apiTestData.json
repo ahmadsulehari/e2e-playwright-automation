@@ -1,0 +1,443 @@
+{
+  "timeZone": {
+    "timezone": "Asia%2FKarachi"
+  },
+  "newJobPayload": {
+    "title": "Automation Job Testing",
+    "type": "",
+    "description": "communication, javascript, QA",
+    "posting_file": "",
+    "location": 52,
+    "department": 60,
+    "departments": [],
+    "experience": -1,
+    "experiences": [],
+    "job_status": "publish",
+    "referral_reward": {
+      "amount": 50000,
+      "duration": "immediate",
+      "is_internal": "True"
+    },
+    "hiring_members": [
+      {
+        "user": 2500,
+        "can_edit_job": true,
+        "permission": 481,
+        "notification_level": "none",
+        "assigned_template": 114
+      }
+    ],
+    "job_requirements": [
+      {
+        "requirement": 3,
+        "title": "Employment",
+        "type": "employment",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 4,
+        "title": "Education",
+        "type": "education",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 73,
+        "title": "Test Requirement test",
+        "type": "upload",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 74,
+        "title": "Test Requirment 2",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 91,
+        "title": "test",
+        "type": "dropdownmenu",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 94,
+        "title": "new",
+        "type": "number",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 95,
+        "title": "q new",
+        "type": "link",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 157,
+        "title": "a24",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 158,
+        "title": "a25",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 159,
+        "title": "a26",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 134,
+        "title": "a1",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 137,
+        "title": "a4",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 138,
+        "title": "a5",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 139,
+        "title": "a6",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 140,
+        "title": "a7",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 141,
+        "title": "a8",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 142,
+        "title": "a9",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 143,
+        "title": "a10",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 132,
+        "title": "Share your motivation for joining Arbisoft's Management Trainee program, your understanding of the company, and your expectations. Create a 90-second video, upload it to Google Drive with public access, and paste the link here, or share your response in writing below.",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 144,
+        "title": "a11",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 145,
+        "title": "a12",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 146,
+        "title": "a13",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 147,
+        "title": "a14",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 148,
+        "title": "a15",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 149,
+        "title": "a16",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 150,
+        "title": "a17",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 151,
+        "title": "a18",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 152,
+        "title": "a19",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 154,
+        "title": "a21",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 155,
+        "title": "a22",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 156,
+        "title": "a23",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 160,
+        "title": "a27",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 161,
+        "title": "a28",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 162,
+        "title": "a29",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 153,
+        "title": "a20",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 170,
+        "title": "a37",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 171,
+        "title": "a38",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 172,
+        "title": "a39",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 163,
+        "title": "a30",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 164,
+        "title": "a31",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 165,
+        "title": "a32",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 166,
+        "title": "a33",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 167,
+        "title": "a34",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 168,
+        "title": "a35",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 169,
+        "title": "a36",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 133,
+        "title": "education one ",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 135,
+        "title": "a2",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 136,
+        "title": "a3",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 173,
+        "title": "a40",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 174,
+        "title": "a41",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 175,
+        "title": "a42",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 176,
+        "title": "a43",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 177,
+        "title": "a44",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 178,
+        "title": "a45",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 179,
+        "title": "a46",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 180,
+        "title": "shehram tahir",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      },
+      {
+        "requirement": 181,
+        "title": "shehra tahir sherhasihsicasosdniahsifaisaiasicahsdi",
+        "type": "textfield",
+        "status": "hidden",
+        "is_unique": false
+      }
+    ],
+    "workflow": 1,
+    "positions": 1,
+    "online_test_start_time": null,
+    "online_test_end_time": null,
+    "online_test_max_attempts": 1,
+    "existing_assessment": false,
+    "online_test_title": "",
+    "is_remote": false,
+    "post_to_job_target": false,
+    "priority": 1,
+    "job_auto_email": null
+  }
+}
